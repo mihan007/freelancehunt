@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb7ad808-fa46-4450-a048-167125bbb2d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="85237759-7b25-4932-a4e1-9c5416ca73b7" />
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9174" listening_started="true" />
+  <component name="ProjectId" id="1hiYzwDaJriRPHwjIjFCLFcMpvW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/752014_csv" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb7ad808-fa46-4450-a048-167125bbb2d8" name="Default Changelist" comment="" />
+      <created>1600495645654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600495645654</updated>
+      <workItem from="1600495646771" duration="3594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="229" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1600498303745">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="523" y="229" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.23.1440.877@0.23.1440.877" timestamp="1600498303745" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1600499249647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600499249647" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1600499249647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600499249647" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1600499249646">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600499249646" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1600499249647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600499249647" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1600499249647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1600499249647" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1600499249647">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1600499249647" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state width="1398" height="286" key="GridCell.Tab.2.bottom" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state width="1398" height="286" key="GridCell.Tab.2.center" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state width="1398" height="286" key="GridCell.Tab.2.left" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state width="1398" height="286" key="GridCell.Tab.2.right" timestamp="1600499249648">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1600499249648" />
+    <state x="322" y="106" key="NewPhpClassDialog" timestamp="1600495874362">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="322" y="106" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1600495874362" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1600497667351">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600497667351" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PrepareGalleryColumn.php">
+        <watch expression="$photos[$normalizedSku]" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
