@@ -98,9 +98,6 @@ class PrepareGalleryColumn
         if (!is_array($data)) {
             return;
         }
-        // get header from keys
-        fputcsv($outstream, array_keys($data[0]), $this->config::CSV_DELIMITER);
-        //
         foreach ($data as $row) {
             fputcsv($outstream, $row, $this->config::CSV_DELIMITER);
         }
