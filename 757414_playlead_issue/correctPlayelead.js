@@ -1,0 +1,1 @@
+(function(d, w){ w.playlead = 'bowoly94'; var s = d.createElement('script'); s.async = true; s.src = 'https://playlead.ru/widget/'+w.playlead+'.js?'+Date.now(); s.charset = 'UTF-8'; s.onload = function() { afterReadyDocument() }; if (d.head) d.head.appendChild(s); })(document, window);

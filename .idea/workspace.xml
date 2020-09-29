@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb7ad808-fa46-4450-a048-167125bbb2d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/752014_csv/CSV_example_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/752014_csv/CSV_example_result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/752014_csv/PrepareGalleryColumn.php" beforeDir="false" afterPath="$PROJECT_DIR$/752014_csv/PrepareGalleryColumn.php" afterDir="false" />
+    <list default="true" id="eb7ad808-fa46-4450-a048-167125bbb2d8" name="Default Changelist" comment="Fix issue with additional header">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
@@ -46,12 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600495645654</updated>
-      <workItem from="1600495646771" duration="3845000" />
+      <workItem from="1600495646771" duration="4405000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix issue with additional header">
+      <created>1600500099368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600500099368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix issue with additional header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix issue with additional header" />
   </component>
   <component name="WindowStateProjectService">
     <state x="523" y="229" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1600498303745">
@@ -66,54 +79,54 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="523" y="173" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1600499332348" />
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1600500069488">
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1600501190675">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600500069488" />
-    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1600500069487">
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600501190675" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1600501190674">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600500069487" />
-    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1600500069486">
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600501190674" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1600501190674">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600500069486" />
-    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1600500069487">
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600501190674" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1600501190674">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600500069487" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1600500069490">
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600501190674" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600500069490" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1600500069489">
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1600501190675">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1600500069489" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1600500069488">
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1600501190675" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1600501190675">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1600500069488" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1600500069489">
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1600501190675" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1600500069489" />
-    <state width="1398" height="286" key="GridCell.Tab.2.bottom" timestamp="1600500069491">
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
+    <state width="1398" height="286" key="GridCell.Tab.2.bottom" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600500069491" />
-    <state width="1398" height="286" key="GridCell.Tab.2.center" timestamp="1600500069490">
+    <state width="1398" height="286" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
+    <state width="1398" height="286" key="GridCell.Tab.2.center" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1600500069490" />
-    <state width="1398" height="286" key="GridCell.Tab.2.left" timestamp="1600500069490">
+    <state width="1398" height="286" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
+    <state width="1398" height="286" key="GridCell.Tab.2.left" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1600500069490" />
-    <state width="1398" height="286" key="GridCell.Tab.2.right" timestamp="1600500069491">
+    <state width="1398" height="286" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
+    <state width="1398" height="286" key="GridCell.Tab.2.right" timestamp="1600501190676">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1600500069491" />
+    <state width="1398" height="286" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1600501190676" />
     <state x="322" y="106" key="NewPhpClassDialog" timestamp="1600495874362">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -122,6 +135,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1600497667351" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1600500100676">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1600500100676" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
